@@ -139,4 +139,4 @@ int main()
 ## RESULT
 
 The program implementing the Hill cipher for encryption and decryption has been successfully 
-executed, and the results have been verified
+executed, and the results have been verified.
