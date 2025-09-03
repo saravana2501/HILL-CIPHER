@@ -1,4 +1,6 @@
+HILL CIPHER EX. NO: 3 
 AIM: 
+
 To develop a simple C program to implement Hill Cipher. 
  
 ## To write a C program to implement the hill cipher substitution techniques.
